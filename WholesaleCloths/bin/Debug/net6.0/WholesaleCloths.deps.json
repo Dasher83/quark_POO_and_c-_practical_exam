@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WholesaleCloths/1.0.0": {
+        "runtime": {
+          "WholesaleCloths.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WholesaleCloths/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\agust\Desktop\quark\POO_and_C#_practical_exam\WholesaleCloths\bin\Debug\net6.0\WholesaleCloths.exe
+C:\Users\agust\Desktop\quark\POO_and_C#_practical_exam\WholesaleCloths\bin\Debug\net6.0\WholesaleCloths.deps.json
+C:\Users\agust\Desktop\quark\POO_and_C#_practical_exam\WholesaleCloths\bin\Debug\net6.0\WholesaleCloths.runtimeconfig.json
+C:\Users\agust\Desktop\quark\POO_and_C#_practical_exam\WholesaleCloths\bin\Debug\net6.0\WholesaleCloths.dll
+C:\Users\agust\Desktop\quark\POO_and_C#_practical_exam\WholesaleCloths\bin\Debug\net6.0\WholesaleCloths.pdb
+C:\Users\agust\Desktop\quark\POO_and_C#_practical_exam\WholesaleCloths\obj\Debug\net6.0\WholesaleCloths.csproj.AssemblyReference.cache
+C:\Users\agust\Desktop\quark\POO_and_C#_practical_exam\WholesaleCloths\obj\Debug\net6.0\WholesaleCloths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\Desktop\quark\POO_and_C#_practical_exam\WholesaleCloths\obj\Debug\net6.0\WholesaleCloths.AssemblyInfoInputs.cache
+C:\Users\agust\Desktop\quark\POO_and_C#_practical_exam\WholesaleCloths\obj\Debug\net6.0\WholesaleCloths.AssemblyInfo.cs
+C:\Users\agust\Desktop\quark\POO_and_C#_practical_exam\WholesaleCloths\obj\Debug\net6.0\WholesaleCloths.csproj.CoreCompileInputs.cache
+C:\Users\agust\Desktop\quark\POO_and_C#_practical_exam\WholesaleCloths\obj\Debug\net6.0\WholesaleCloths.dll
+C:\Users\agust\Desktop\quark\POO_and_C#_practical_exam\WholesaleCloths\obj\Debug\net6.0\refint\WholesaleCloths.dll
+C:\Users\agust\Desktop\quark\POO_and_C#_practical_exam\WholesaleCloths\obj\Debug\net6.0\WholesaleCloths.pdb
+C:\Users\agust\Desktop\quark\POO_and_C#_practical_exam\WholesaleCloths\obj\Debug\net6.0\WholesaleCloths.genruntimeconfig.cache
+C:\Users\agust\Desktop\quark\POO_and_C#_practical_exam\WholesaleCloths\obj\Debug\net6.0\ref\WholesaleCloths.dll
